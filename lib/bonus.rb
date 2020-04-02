@@ -22,8 +22,6 @@ def bonus
 
 new_info = "dead"
 
-epic_tragedy[:montague][:hero][:status] = []
-epic_tragedy[:capulet][:heroine][:status] = []
 epic_tragedy[:montague][:hero][:status] = new_info
 epic_tragedy[:capulet][:heroine][:status] = new_info
 
